@@ -1,6 +1,6 @@
 # Harf katta yoki kichik
 
-letter = input("letter kiriting: ")
+letter = input("Harf kiriting: ")
 
 if len(letter) == 1 and letter.isalpha():
 
