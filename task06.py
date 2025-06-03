@@ -14,5 +14,5 @@ if number == 95 or number == 97:
 if number == 88 or number == 99:
     print("MobiUz")
 
-if number != 90 or 91 or 93 or 94 or 95 or 97 or 88 or 99:
+else:
     print("Noma'lum operator")
